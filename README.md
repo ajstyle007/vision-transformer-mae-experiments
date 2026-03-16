@@ -1,6 +1,6 @@
-# Vision Transformer & MAE Learning Experiments
+# Vision Transformer & MAE Learning Experiments ([Live Demo](https://musk12-food-image-retrieval-ai.hf.space/))
 
-![Uploading Screenshot 2026-03-16 233144.png…]()
+<img width="1372" height="1016" alt="Screenshot 2026-03-16 233144" src="https://github.com/user-attachments/assets/192ba8de-6743-456a-ae92-6b5abf164027" />
 
 This repository contains my experiments while learning:
 
