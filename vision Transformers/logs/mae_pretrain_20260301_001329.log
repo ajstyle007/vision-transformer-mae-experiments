@@ -1,0 +1,79 @@
+2026-03-01 00:13:45 | INFO | Resumed training from epoch 1
+2026-03-01 00:35:55 | INFO | Checkpoint saved at checkpoints/mae_epoch_new_2.pth
+2026-03-01 00:35:56 | INFO | Epoch [2/200] | Avg Loss: 0.737897
+2026-03-01 00:58:37 | INFO | Checkpoint saved at checkpoints/mae_epoch_new_3.pth
+2026-03-01 00:58:38 | INFO | Epoch [3/200] | Avg Loss: 0.641085
+2026-03-01 01:20:36 | INFO | Checkpoint saved at checkpoints/mae_epoch_new_4.pth
+2026-03-01 01:20:37 | INFO | Epoch [4/200] | Avg Loss: 0.621848
+2026-03-01 01:42:18 | INFO | Checkpoint saved at checkpoints/mae_epoch_new_5.pth
+2026-03-01 01:42:19 | INFO | Epoch [5/200] | Avg Loss: 0.607660
+2026-03-01 02:03:49 | INFO | Checkpoint saved at checkpoints/mae_epoch_new_6.pth
+2026-03-01 02:03:50 | INFO | Epoch [6/200] | Avg Loss: 0.592731
+2026-03-01 02:25:19 | INFO | Checkpoint saved at checkpoints/mae_epoch_new_7.pth
+2026-03-01 02:25:20 | INFO | Epoch [7/200] | Avg Loss: 0.573774
+2026-03-01 02:46:46 | INFO | Checkpoint saved at checkpoints/mae_epoch_new_8.pth
+2026-03-01 02:46:47 | INFO | Epoch [8/200] | Avg Loss: 0.559369
+2026-03-01 03:08:18 | INFO | Checkpoint saved at checkpoints/mae_epoch_new_9.pth
+2026-03-01 03:08:20 | INFO | Epoch [9/200] | Avg Loss: 0.541754
+2026-03-01 03:29:45 | INFO | Checkpoint saved at checkpoints/mae_epoch_new_10.pth
+2026-03-01 03:29:46 | INFO | Epoch [10/200] | Avg Loss: 0.522640
+2026-03-01 03:51:14 | INFO | Checkpoint saved at checkpoints/mae_epoch_new_11.pth
+2026-03-01 03:51:15 | INFO | Epoch [11/200] | Avg Loss: 0.504900
+2026-03-01 04:12:47 | INFO | Checkpoint saved at checkpoints/mae_epoch_new_12.pth
+2026-03-01 04:12:49 | INFO | Epoch [12/200] | Avg Loss: 0.490368
+2026-03-01 04:34:17 | INFO | Checkpoint saved at checkpoints/mae_epoch_new_13.pth
+2026-03-01 04:34:19 | INFO | Epoch [13/200] | Avg Loss: 0.477196
+2026-03-01 04:55:48 | INFO | Checkpoint saved at checkpoints/mae_epoch_new_14.pth
+2026-03-01 04:55:49 | INFO | Epoch [14/200] | Avg Loss: 0.464237
+2026-03-01 05:17:16 | INFO | Checkpoint saved at checkpoints/mae_epoch_new_15.pth
+2026-03-01 05:17:17 | INFO | Epoch [15/200] | Avg Loss: 0.454903
+2026-03-01 05:38:47 | INFO | Checkpoint saved at checkpoints/mae_epoch_new_16.pth
+2026-03-01 05:38:48 | INFO | Epoch [16/200] | Avg Loss: 0.447212
+2026-03-01 06:00:18 | INFO | Checkpoint saved at checkpoints/mae_epoch_new_17.pth
+2026-03-01 06:00:20 | INFO | Epoch [17/200] | Avg Loss: 0.442236
+2026-03-01 06:22:33 | INFO | Checkpoint saved at checkpoints/mae_epoch_new_18.pth
+2026-03-01 06:22:34 | INFO | Epoch [18/200] | Avg Loss: 0.437653
+2026-03-01 06:44:52 | INFO | Checkpoint saved at checkpoints/mae_epoch_new_19.pth
+2026-03-01 06:44:53 | INFO | Epoch [19/200] | Avg Loss: 0.435217
+2026-03-01 07:07:14 | INFO | Checkpoint saved at checkpoints/mae_epoch_new_20.pth
+2026-03-01 07:07:15 | INFO | Epoch [20/200] | Avg Loss: 0.433331
+2026-03-01 07:29:28 | INFO | Checkpoint saved at checkpoints/mae_epoch_new_21.pth
+2026-03-01 07:29:30 | INFO | Epoch [21/200] | Avg Loss: 0.430249
+2026-03-01 07:51:21 | INFO | Checkpoint saved at checkpoints/mae_epoch_new_22.pth
+2026-03-01 07:51:22 | INFO | Epoch [22/200] | Avg Loss: 0.428549
+2026-03-01 08:12:59 | INFO | Checkpoint saved at checkpoints/mae_epoch_new_23.pth
+2026-03-01 08:13:00 | INFO | Epoch [23/200] | Avg Loss: 0.427108
+2026-03-01 08:34:29 | INFO | Checkpoint saved at checkpoints/mae_epoch_new_24.pth
+2026-03-01 08:34:30 | INFO | Epoch [24/200] | Avg Loss: 0.425432
+2026-03-01 08:56:01 | INFO | Checkpoint saved at checkpoints/mae_epoch_new_25.pth
+2026-03-01 08:56:02 | INFO | Epoch [25/200] | Avg Loss: 0.422447
+2026-03-01 09:17:33 | INFO | Checkpoint saved at checkpoints/mae_epoch_new_26.pth
+2026-03-01 09:17:35 | INFO | Epoch [26/200] | Avg Loss: 0.419751
+2026-03-01 09:39:11 | INFO | Checkpoint saved at checkpoints/mae_epoch_new_27.pth
+2026-03-01 09:39:12 | INFO | Epoch [27/200] | Avg Loss: 0.417421
+2026-03-01 10:00:44 | INFO | Checkpoint saved at checkpoints/mae_epoch_new_28.pth
+2026-03-01 10:00:45 | INFO | Epoch [28/200] | Avg Loss: 0.415124
+2026-03-01 12:34:45 | INFO | Checkpoint saved at checkpoints/mae_epoch_new_29.pth
+2026-03-01 12:34:46 | INFO | Epoch [29/200] | Avg Loss: 0.412955
+2026-03-01 12:57:12 | INFO | Checkpoint saved at checkpoints/mae_epoch_new_30.pth
+2026-03-01 12:57:13 | INFO | Epoch [30/200] | Avg Loss: 0.411050
+2026-03-01 13:18:59 | INFO | Checkpoint saved at checkpoints/mae_epoch_new_31.pth
+2026-03-01 13:19:00 | INFO | Epoch [31/200] | Avg Loss: 0.409438
+2026-03-01 13:40:34 | INFO | Checkpoint saved at checkpoints/mae_epoch_new_32.pth
+2026-03-01 13:40:36 | INFO | Epoch [32/200] | Avg Loss: 0.407514
+2026-03-01 14:02:11 | INFO | Checkpoint saved at checkpoints/mae_epoch_new_33.pth
+2026-03-01 14:02:12 | INFO | Epoch [33/200] | Avg Loss: 0.406163
+2026-03-01 14:23:48 | INFO | Checkpoint saved at checkpoints/mae_epoch_new_34.pth
+2026-03-01 14:23:49 | INFO | Epoch [34/200] | Avg Loss: 0.404555
+2026-03-01 14:45:21 | INFO | Checkpoint saved at checkpoints/mae_epoch_new_35.pth
+2026-03-01 14:45:22 | INFO | Epoch [35/200] | Avg Loss: 0.402886
+2026-03-01 15:13:20 | INFO | Checkpoint saved at checkpoints/mae_epoch_new_36.pth
+2026-03-01 15:13:21 | INFO | Epoch [36/200] | Avg Loss: 0.401755
+2026-03-01 15:35:39 | INFO | Checkpoint saved at checkpoints/mae_epoch_new_37.pth
+2026-03-01 15:35:41 | INFO | Epoch [37/200] | Avg Loss: 0.400285
+2026-03-01 15:57:45 | INFO | Checkpoint saved at checkpoints/mae_epoch_new_38.pth
+2026-03-01 15:57:46 | INFO | Epoch [38/200] | Avg Loss: 0.399291
+2026-03-01 16:19:48 | INFO | Checkpoint saved at checkpoints/mae_epoch_new_39.pth
+2026-03-01 16:19:49 | INFO | Epoch [39/200] | Avg Loss: 0.398020
+2026-03-01 16:41:48 | INFO | Checkpoint saved at checkpoints/mae_epoch_new_40.pth
+2026-03-01 16:41:49 | INFO | Epoch [40/200] | Avg Loss: 0.396886

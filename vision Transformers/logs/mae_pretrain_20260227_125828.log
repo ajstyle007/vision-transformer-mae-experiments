@@ -1,0 +1,9 @@
+2026-02-27 12:58:49 | INFO | No checkpoint found, starting from scratch
+2026-02-27 13:28:34 | INFO | Checkpoint saved at checkpoints/mae_epoch_new_1.pth
+2026-02-27 13:28:35 | INFO | Epoch [1/200] | Avg Loss: 0.611174
+2026-02-27 13:58:04 | INFO | Checkpoint saved at checkpoints/mae_epoch_new_2.pth
+2026-02-27 13:58:05 | INFO | Epoch [2/200] | Avg Loss: 0.433275
+2026-02-27 14:27:31 | INFO | Checkpoint saved at checkpoints/mae_epoch_new_3.pth
+2026-02-27 14:27:32 | INFO | Epoch [3/200] | Avg Loss: 0.390491
+2026-02-27 14:57:03 | INFO | Checkpoint saved at checkpoints/mae_epoch_new_4.pth
+2026-02-27 14:57:05 | INFO | Epoch [4/200] | Avg Loss: 0.368869

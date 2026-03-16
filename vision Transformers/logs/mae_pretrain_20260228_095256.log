@@ -1,0 +1,31 @@
+2026-02-28 09:53:18 | INFO | Resumed training from epoch 8
+2026-02-28 10:23:36 | INFO | Checkpoint saved at checkpoints/mae_epoch_new_9.pth
+2026-02-28 10:23:40 | INFO | Epoch [9/200] | Avg Loss: 0.337304
+2026-02-28 10:53:58 | INFO | Checkpoint saved at checkpoints/mae_epoch_new_10.pth
+2026-02-28 10:53:59 | INFO | Epoch [10/200] | Avg Loss: 0.335413
+2026-02-28 11:24:28 | INFO | Checkpoint saved at checkpoints/mae_epoch_new_11.pth
+2026-02-28 11:24:30 | INFO | Epoch [11/200] | Avg Loss: 0.331856
+2026-02-28 11:59:58 | INFO | Checkpoint saved at checkpoints/mae_epoch_new_12.pth
+2026-02-28 12:00:01 | INFO | Epoch [12/200] | Avg Loss: 0.328838
+2026-02-28 12:30:22 | INFO | Checkpoint saved at checkpoints/mae_epoch_new_13.pth
+2026-02-28 12:30:23 | INFO | Epoch [13/200] | Avg Loss: 0.326471
+2026-02-28 13:00:36 | INFO | Checkpoint saved at checkpoints/mae_epoch_new_14.pth
+2026-02-28 13:00:37 | INFO | Epoch [14/200] | Avg Loss: 0.324628
+2026-02-28 13:29:56 | INFO | Checkpoint saved at checkpoints/mae_epoch_new_15.pth
+2026-02-28 13:29:57 | INFO | Epoch [15/200] | Avg Loss: 0.322976
+2026-02-28 14:29:36 | INFO | Checkpoint saved at checkpoints/mae_epoch_new_16.pth
+2026-02-28 14:29:40 | INFO | Epoch [16/200] | Avg Loss: 0.321450
+2026-02-28 15:18:33 | INFO | Checkpoint saved at checkpoints/mae_epoch_new_17.pth
+2026-02-28 15:18:35 | INFO | Epoch [17/200] | Avg Loss: 0.320444
+2026-02-28 15:48:43 | INFO | Checkpoint saved at checkpoints/mae_epoch_new_18.pth
+2026-02-28 15:48:45 | INFO | Epoch [18/200] | Avg Loss: 0.319269
+2026-02-28 16:13:58 | INFO | Checkpoint saved at checkpoints/mae_epoch_new_19.pth
+2026-02-28 16:13:58 | INFO | Epoch [19/200] | Avg Loss: nan
+2026-02-28 16:35:01 | INFO | Checkpoint saved at checkpoints/mae_epoch_new_20.pth
+2026-02-28 16:35:01 | INFO | Epoch [20/200] | Avg Loss: nan
+2026-02-28 16:55:58 | INFO | Checkpoint saved at checkpoints/mae_epoch_new_21.pth
+2026-02-28 16:55:58 | INFO | Epoch [21/200] | Avg Loss: nan
+2026-02-28 17:16:59 | INFO | Checkpoint saved at checkpoints/mae_epoch_new_22.pth
+2026-02-28 17:16:59 | INFO | Epoch [22/200] | Avg Loss: nan
+2026-02-28 17:38:05 | INFO | Checkpoint saved at checkpoints/mae_epoch_new_23.pth
+2026-02-28 17:38:05 | INFO | Epoch [23/200] | Avg Loss: nan

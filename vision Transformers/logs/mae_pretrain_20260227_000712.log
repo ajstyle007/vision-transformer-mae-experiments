@@ -1,0 +1,17 @@
+2026-02-27 00:07:29 | INFO | Resumed training from epoch 1
+2026-02-27 00:51:37 | INFO | Checkpoint saved at checkpoints/mae_epoch_2.pth
+2026-02-27 00:51:38 | INFO | Epoch [2/200] | Avg Loss: 0.987624
+2026-02-27 01:35:14 | INFO | Checkpoint saved at checkpoints/mae_epoch_3.pth
+2026-02-27 01:35:15 | INFO | Epoch [3/200] | Avg Loss: 0.987389
+2026-02-27 02:18:29 | INFO | Checkpoint saved at checkpoints/mae_epoch_4.pth
+2026-02-27 02:18:29 | INFO | Epoch [4/200] | Avg Loss: 0.987418
+2026-02-27 03:01:39 | INFO | Checkpoint saved at checkpoints/mae_epoch_5.pth
+2026-02-27 03:01:40 | INFO | Epoch [5/200] | Avg Loss: 0.987258
+2026-02-27 03:44:49 | INFO | Checkpoint saved at checkpoints/mae_epoch_6.pth
+2026-02-27 03:44:49 | INFO | Epoch [6/200] | Avg Loss: 0.987400
+2026-02-27 04:27:57 | INFO | Checkpoint saved at checkpoints/mae_epoch_7.pth
+2026-02-27 04:27:59 | INFO | Epoch [7/200] | Avg Loss: 0.987207
+2026-02-27 05:11:05 | INFO | Checkpoint saved at checkpoints/mae_epoch_8.pth
+2026-02-27 05:11:05 | INFO | Epoch [8/200] | Avg Loss: 0.987470
+2026-02-27 05:54:19 | INFO | Checkpoint saved at checkpoints/mae_epoch_9.pth
+2026-02-27 05:54:20 | INFO | Epoch [9/200] | Avg Loss: 0.987105
