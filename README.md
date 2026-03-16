@@ -13,6 +13,8 @@ The goal of this repository is to understand how modern vision architectures wor
 
 ## What I Implemented
 
+<img width="1100" height="677" alt="ViT_architecture" src="https://github.com/user-attachments/assets/9a032d1c-2272-466d-84b1-8f8a2aaa661b" />
+
 During this learning process I experimented with:
 
 - Training a Vision Transformer encoder using Masked Autoencoders
