@@ -41,6 +41,8 @@ Through these experiments I learned:
 - How encoder–decoder architectures work for vision-language tasks
 - How image embeddings can be used for similarity search
 
+<img width="1856" height="841" alt="Screenshot 2026-03-17 093250" src="https://github.com/user-attachments/assets/20c35149-4a1a-4a55-98e0-453c648ab4e1" />
+
 ## Notes from My Experiments
 
 After implementing the caption generation pipeline on top of the Vision Transformer encoder trained with **Masked Autoencoder**, I trained the decoder for about **two days**. While the training loss decreased initially, the generated captions did not improve significantly after a certain point.
